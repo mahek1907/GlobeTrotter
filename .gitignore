@@ -1,0 +1,8 @@
+node_modules/
+backend/globetrotter.db
+backend/globetrotter.db-journal
+backend/globetrotter.db-wal
+backend/globetrotter.db-shm
+.env
+*.log
+.DS_Store
